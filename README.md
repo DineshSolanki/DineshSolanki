@@ -8,7 +8,7 @@ I am Dinesh Solanki, currently pursuing my master's degree majoring in computer 
 ## ⚡ Technologies
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![C#](https://img.shields.io/badge/-C%23-%20black?style=flat-square&logo=c-sharp)
+![C#](https://img.shields.io/badge/-C%23-%20navy?style=flat-square&logo=c-sharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Dinesh Solanki, currently pursuing my master's degree majoring in computer applications from [M.B.M. University](https://www.mbm.ac.in/).I Love to code ,also contribute and give to open-source projects. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Dinesh Solanki, Grduated with master's degree majoring in computer applications from [M.B.M. University](https://www.mbm.ac.in/).I Love to code ,also contribute and give to open-source projects. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Dinesh_Solanki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinesh-solanki/)](https://www.linkedin.com/in/dinesh-solanki/)
 [![Blog Badge](https://img.shields.io/website?label=Wordpress&up_message=Blog&url=https%3A%2F%2Faprogrammers.wordpress.com)](https://aprogrammers.wordpress.com/)

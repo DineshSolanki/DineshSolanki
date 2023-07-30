@@ -18,6 +18,8 @@ I'm always open to collaborating on new and innovative ideas. Connect with me on
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DineshSolanki.DineshSolanki)
 
+![Mahdi's github trophy](https://github-profile-trophy.vercel.app/?username=dineshsolanki&row=1)
+
 ### Experience
 
 **Exela Technologies**

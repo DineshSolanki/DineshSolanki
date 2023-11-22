@@ -1,3 +1,22 @@
+<!-- I'm on the lookout for new opportunities! -->
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dinesh-solanki/">
+    <img src="https://img.shields.io/badge/Open%20to%20Work-informational?style=for-the-badge" alt="Open to Work">
+ </a>
+  
+  <h3 align="center">I'm interested in new opportunities!</h3>
+
+  <p align="center">
+      Experienced Software Engineer passionate about building robust, scalable backend systems and APIs. Proficient in Java, C#, Keycloak, and more.
+  </p>
+  
+  <p align="center">
+    <a href="mailto:solankid297@gmail.com"><img src="https://img.shields.io/badge/email me-red?logo=gmail&logoColor=white&style=for-the-badge" /></a> 
+    <a href="https://www.linkedin.com/in/dineshsolanki/"><img src="https://img.shields.io/badge/my LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  </p>
+</p>
+
 ### Hi there 👋
 
 I'm Dinesh Solanki, a computer science graduate with a master's degree from [M.B.M. University](https://www.mbm.ac.in/). I'm passionate about coding and contributing to open-source projects with experience building backend systems and APIs in Java and C#. I'm passionate about writing clean, readable code and delivering robust, scalable solutions. 
@@ -19,17 +38,19 @@ I'm always open to collaborating on new and innovative ideas. Connect with me on
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DineshSolanki.DineshSolanki)
 
 ![Mahdi's github trophy](https://github-profile-trophy.vercel.app/?username=dineshsolanki&row=1)
-<!---
-### Experience
 
-**Exela Technologies**
+## 💼 Corporate Experience
 
-*Software Engineer*
+Proven track record designing, building, and delivering robust critical large-scale software systems. Passionate about writing clean, maintainable code to solve complex problems that delight users. 
 
-Nov 2021 - Present
+**Exela Technologies**  
+
+_Software Engineer | Nov 2021 - Present_
 
 - Developed backend features in Java and Angular frontend
 - Led feature development and task delegation to meet deadlines
+- Projects - [DrySign 2](https://drysign.exelatech.com/) & [ERN](https://rn.exelatech.com/)
+- Lead engineer of SAST and DAST security fixes of the projects (Improved Application security score from 26 to 93 in a month) | Mentored colleagues on best practices
 
 **Yagna IQ**
 
@@ -38,4 +59,3 @@ Nov 2021 - Present
 Mar 2021 - Jul 2021
 
 - Developed with Java, Sencha ExtJS, and CI/CD pipelines
--->

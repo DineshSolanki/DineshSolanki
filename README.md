@@ -1,7 +1,7 @@
 <!-- I'm on the lookout for new opportunities! -->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dinesh-solanki/">
+  <a href="https://www.linkedin.com/in/dineshsolanki/">
     <img src="https://img.shields.io/badge/Open%20to%20Work-informational?style=for-the-badge" alt="Open to Work">
  </a>
   

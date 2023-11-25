@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dineshsolanki/">
-    <img src="https://img.shields.io/badge/Open%20to%20Work-informational?style=for-the-badge" alt="Open to Work">
+    <img src="https://img.shields.io/badge/Open%20to%20Work-informational?logo=wheniwork&style=for-the-badge" alt="Open to Work">
  </a>
   
   <h3 align="center">I'm interested in new opportunities!</h3>

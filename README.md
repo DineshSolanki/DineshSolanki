@@ -31,6 +31,9 @@ I'm always open to collaborating on new and innovative ideas. Connect with me on
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/dineshsolanki"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dineshsolanki" /></a></p><br><br>
+
 ## 📊 GitHub Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=DineshSolanki&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DineshSolanki&hide=TeX&layout=compact)

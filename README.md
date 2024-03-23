@@ -45,20 +45,3 @@ I'm always open to collaborating on new and innovative ideas. Connect with me on
 ## 💼 Corporate Experience
 
 Proven track record designing, building, and delivering robust critical large-scale software systems. Passionate about writing clean, maintainable code to solve complex problems that delight users. 
-
-**Exela Technologies**  
-
-_Software Engineer | Nov 2021 - Present_
-
-- Developed backend features in Java and Angular frontend
-- Led feature development and task delegation to meet deadlines
-- Projects - [DrySign 2](https://drysign.exelatech.com/) & [ERN](https://rn.exelatech.com/)
-- Lead engineer of SAST and DAST security fixes of the projects (Improved Application security score from 26 to 93 in a month) | Mentored colleagues on best practices
-
-**Yagna IQ**
-
-*Software Engineer*
-
-Mar 2021 - Jul 2021
-
-- Developed with Java, Sencha ExtJS, and CI/CD pipelines
